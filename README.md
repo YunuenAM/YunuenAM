@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yunameza@outlook.com**
 
-- ⚡ Fun fact **I think I am a fan of cats😺**
+- ⚡ Fun fact **I think I am a fan of frogs🐸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
