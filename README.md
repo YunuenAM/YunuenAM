@@ -2,7 +2,10 @@
 
 
 
-<h3 align="center">Hi 👋, I'm Yunuen Sarasuadi Acosta Meza(She/Her) from Mexico. I'm a Jr. full stack developer focused on Front end and I really enjoy web design and create solutions. My goal is develop software applying clean code principles. </h3>
+<h3 align="center">Hi 👋, I'm Yunuen Sarasuadi Acosta Meza(She/Her) from Mexico. I'm a Jr. full stack developer focused on Front end and I really enjoy web design and create solutions. My goal is development with design simplification, providing new ideas to the
+client from an updated perspective and with attention to detail. My focus is on creating experiences and
+products that are not only functional, but also aesthetically appealing and adapted to
+changing market needs.</h3>
 <img align="center" src="https://media.tenor.com/OY3KurKd0vgAAAAd/cardano-ada.gif"  width="833" height="465.959375" alt="Cardano Ada GIF - Cardano Ada Ada Lovelace GIFs" style="max-width: 833px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunuen&label=Profile%20views&color=0e75b6&style=flat" alt="yunuen" /> </p>
