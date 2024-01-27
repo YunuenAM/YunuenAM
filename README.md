@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning ** AWS **
 
-- 💬 Ask me about **Intro: Web, JavaScript, React.js**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js**
 
 - 📫 How to reach me **yunameza@outlook.com**
 
-- ⚡ Fun fact **I think I am a fan of CATS🐈‍⬛**
+- ⚡ Fun fact **I think I am a fan of cats🐈‍⬛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
