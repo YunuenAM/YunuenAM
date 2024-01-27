@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunuen&label=Profile%20views&color=0e75b6&style=flat" alt="yunuen" /> </p>
 
-- 🌱 I’m currently learning **GIT, Computer Science, Frameworks**
+- 🌱 I’m currently learning ** AWS **
 
-- 💬 Ask me about **Intro: Web, JavaScript, Computer Science**
+- 💬 Ask me about **Intro: Web, JavaScript, React.js**
 
 - 📫 How to reach me **yunameza@outlook.com**
 
-- ⚡ Fun fact **I think I am a fan of frogs🐸**
+- ⚡ Fun fact **I think I am a fan of CATS🐈‍⬛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
