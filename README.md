@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Hi 👋, I'm Yunuen Sarasuadi Acosta Meza(She/Her) from Mexico. I'm a Jr. full stack developer focused on Front end and I really enjoy web design and create solutions. My goal is development with design simplification, providing new ideas to the
+<h3 align="center">Hi 👋, I'm Yunuen Sarasuadi Acosta Meza(She/Her) from Mexico. I'm a  full stack developer focused on Front end and I really enjoy web design and create solutions. My goal is development with design simplification, providing new ideas to the
 client from an updated perspective and with attention to detail. My focus is on creating experiences and
 products that are not only functional, but also aesthetically appealing and adapted to
 changing market needs.</h3>
