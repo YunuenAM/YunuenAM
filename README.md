@@ -10,7 +10,7 @@ changing market needs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunuen&label=Profile%20views&color=0e75b6&style=flat" alt="yunuen" /> </p>
 
-- 🌱 I’m currently learning ** AWS **
+- 🌱 I’m currently learning ** Vue.js 3 **
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.js**
 
