@@ -8,7 +8,6 @@ products that are not only functional, but also aesthetically appealing and adap
 changing market needs.</h3>
 <img align="center" src="https://media.tenor.com/OY3KurKd0vgAAAAd/cardano-ada.gif"  width="833" height="465.959375" alt="Cardano Ada GIF - Cardano Ada Ada Lovelace GIFs" style="max-width: 833px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yunuen&label=Profile%20views&color=0e75b6&style=flat" alt="yunuen" /> </p>
 
 - 🌱 I’m currently learning ** Vue.js 3 **
 
