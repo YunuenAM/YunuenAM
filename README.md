@@ -9,9 +9,9 @@ changing market needs.</h3>
 <img align="center" src="https://media.tenor.com/OY3KurKd0vgAAAAd/cardano-ada.gif"  width="833" height="465.959375" alt="Cardano Ada GIF - Cardano Ada Ada Lovelace GIFs" style="max-width: 833px;">
 
 
-- 🌱 I’m currently learning ** Vue.js 3 **
+- 🌱 I’m currently learning ** Python **
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Vue.js 3, Node.js **
 
 - 📫 How to reach me **yunameza@outlook.com**
 
