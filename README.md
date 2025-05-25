@@ -12,8 +12,6 @@ I create digital solutions that combine advanced technology with user-centered d
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Vue.js 3, Node.js **
 
-- 📫 How to reach me **yunameza@outlook.com**
-
 - ⚡ Fun fact **I think I am a fan of cats🐈‍⬛**
 
 <h3 align="left">Connect with me:</h3>
