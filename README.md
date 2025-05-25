@@ -1,15 +1,14 @@
-### Hi there 👋
+### Hello there 
 
 
 
-<h3 align="center">Hi 👋, I'm Yunuen Sarasuadi Acosta Meza(She/Her) from Mexico. I'm a  full stack developer focused on Front end and I really enjoy web design and create solutions. My goal is development with design simplification, providing new ideas to the
-client from an updated perspective and with attention to detail. My focus is on creating experiences and
-products that are not only functional, but also aesthetically appealing and adapted to
-changing market needs.</h3>
+<h3 align="center"> Hi! I'm Yuna!
+Frontend Developer Specializing in User Experience | Yunuen Sarasuadi Acosta Meza
+I create digital solutions that combine advanced technology with user-centered design to deliver exceptional experiences across various platforms and contexts.</h3>
 <img align="center" src="https://media.tenor.com/OY3KurKd0vgAAAAd/cardano-ada.gif"  width="833" height="465.959375" alt="Cardano Ada GIF - Cardano Ada Ada Lovelace GIFs" style="max-width: 833px;">
 
 
-- 🌱 I’m currently learning ** UX **
+- 🌱 I’m currently learning ** Python **
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Vue.js 3, Node.js **
 
@@ -18,6 +17,14 @@ changing market needs.</h3>
 - ⚡ Fun fact **I think I am a fan of cats🐈‍⬛**
 
 <h3 align="left">Connect with me:</h3>
+<p>Professional Profile
+I am a JavaScript developer with a focus on the React, Vue and Nuxt frameworks. I have 3+ years of experience in frontend development and a background in linguistics. I specialize in creating digital solutions scalable and user-centric applications.
+
+Location
+Mexico City,Mexico
+
+Contact
+devyunae@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/yunuen sarasuadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunuen sarasuadi" height="30" width="40" /></a>
 
