@@ -1,7 +1,9 @@
+<div align="center" style="background: linear-gradient(135deg, #f8c8dc 0%, #d1f2e5 100%); padding: 30px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1)">
 <div align="center"><h1 align="center" style="font-family: sans-serif; color: #e2b0ff">Yuna.dev</h1>
- <a align="center" href="https://yunuen-acosta-meza.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_my_website-FF6B9E?style=for-the-badge&logo=netlify&logoColor=white" alt="Website" style="vertical-align: middle; margin-left: 10px;">
-  </a></div>
+ <a align="center" <a href="https://yunuen-acosta-meza.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/✨_Portfolio-FF6B9E?style=for-the-badge&logo=netlify&logoColor=white"  alt="Website">
+</a></div>
+
 
 <p align="center" style="font-family: sans-serif; color: #bb9af7">💜 "Coding with style, designing with passion."</p>
 
@@ -10,7 +12,7 @@
 </p>
 
 <div align="center">
-<img src="https://media.tenor.com/OY3KurKd0vgAAAAd/cardano-ada.gif" width="800" alt="Tech GIF">
+<img src="https://media.tenor.com/OY3KurKd0vgAAAAd/cardano-ada.gif" width="800" alt="Tech GIF" style="margin: 20px 0; border-radius: 20px; border: 4px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
 </div>
 
 ## <div align="center" style="font-family: sans-serif; color: #e2b0ff">🛠 Tech Stack</div>
@@ -44,6 +46,7 @@
 <div align="center">
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/yunuen-sarasuadi">
+</a>
 <img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <!-- Email -->
@@ -51,4 +54,5 @@
 <img src="https://img.shields.io/badge/Email-FF6B9E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
+</div>
 </div>
