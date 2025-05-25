@@ -1,7 +1,8 @@
-<h1 align="center" style="font-family: sans-serif; color: #e2b0ff">Yuna.dev</h1>
- <a href="https://yunuen-acosta-meza.netlify.app/" target="_blank">
+<div align="center"><h1 align="center" style="font-family: sans-serif; color: #e2b0ff">Yuna.dev</h1>
+ <a align="center" href="https://yunuen-acosta-meza.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_my_website-FF6B9E?style=for-the-badge&logo=netlify&logoColor=white" alt="Website" style="vertical-align: middle; margin-left: 10px;">
-  </a>
+  </a></div>
+
 <p align="center" style="font-family: sans-serif; color: #bb9af7">💜 "Coding with style, designing with passion."</p>
 
 <p align="center" style="font-family: sans-serif; color: #d9c6ff">
